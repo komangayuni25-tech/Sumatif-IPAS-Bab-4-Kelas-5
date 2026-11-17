@@ -1,0 +1,8 @@
+{
+  "name": " Tes Sumatif IPAS Bab 4 Kelas 5",
+  "description": "Aplikasi Tes Sumatif IPAS Bab 4 (Air Sumber Kehidupan) Kelas 5 SD Negeri 3 Loloan Timur dengan 40 soal Pilihan Ganda dan 5 soal PGK Kategori bergambar, matriks respon 45 butir, kisi-kisi resmi, serta sinkronisasi Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
